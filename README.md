@@ -1,4 +1,26 @@
-<h1 align="center">Hi 👋, I'm Samreen Akhtar</h1>
+<h1 align="center">Hi 👋, I'm Samreen Akhtar</h1<!------------------------------------------>
+<!-- SECTION:  leetcode badge-->
+
+# Leetcode
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+
+<br>
+<a href="https://leetcode.com/akhtarsamreen1/">
+    <img src="https://leetcard.jacoblin.cool/sriragavip24032004?theme=dark&font=Goldman&ext=activityy"></img>
+<a>
+
+<!------------------------------------------>
+
+<!------------------------------------------>
+<!-- SECTION: Contact me -->
+
+## 💻 Coding Profiles
+
+- **LeetCode:** [sriragavip24032004](https://leetcode.com/sriragavip24032004/)
+- **GeeksforGeeks:** [sriragavip](https://auth.geeksforgeeks.org/user/sriragavip/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+- **Codechef:** [sriragavip](https://www.codechef.com/users/sriragavip)
+- **CodeForces:** [SRIRAGAVIP](https://codeforces.com/profile/SRIRAGAVI)
+- **HackerRank:** [sriragavip_cse21](https://www.hackerrank.com/profile/sriragavip_cse21)
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img  align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen2509&label=Profile%20views&color=0e75b6&style=flat" alt="samreen2509" /> </p>
