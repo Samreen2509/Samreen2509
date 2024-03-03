@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samreen Akhtar</h1<!------------------------------------------>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<img  align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="">
 <!-- SECTION:  leetcode badge-->
 
 # Leetcode
@@ -18,8 +20,6 @@
 - **LeetCode:** [akhtarsamreen1](https://leetcode.com/akhtarsamreen1/)
 - **GeeksforGeeks:** [akhtarsamreen1](https://auth.geeksforgeeks.org/user/akhtarsamreen1)
 - **HackerRank:** [@akhtarsamreen1](https://www.hackerrank.com/profile/akhtarsamreen1)
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img  align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen2509&label=Profile%20views&color=0e75b6&style=flat" alt="samreen2509" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samreen2509" alt="samreen2509" /></a> </p>
