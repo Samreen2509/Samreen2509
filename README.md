@@ -17,7 +17,7 @@
 
 ## 💻 Coding Profiles
 
-- **LeetCode:** [akhtarsamreen1](https://leetcode.com/akhtarsamreen1/)
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/akhtarsamreen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akhtarsamreen1" height="30" width="40" /></a> [akhtarsamreen1](https://leetcode.com/akhtarsamreen1/)
 - **GeeksforGeeks:** [akhtarsamreen1](https://auth.geeksforgeeks.org/user/akhtarsamreen1)
 - **HackerRank:** [@akhtarsamreen1](https://www.hackerrank.com/profile/akhtarsamreen1)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samreen2509&label=Profile%20views&color=0e75b6&style=flat" alt="samreen2509" /> </p>
@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/akhtarsamreen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akhtarsamreen1" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/https://leetcode.com/akhtarsamreen1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akhtarsamreen1/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akhtarsamreen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/akhtarsamreen1" height="30" width="40" /></a>
 </p>
